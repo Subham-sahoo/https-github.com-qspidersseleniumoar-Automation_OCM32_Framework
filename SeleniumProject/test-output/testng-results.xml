@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57" started-at="2019-07-13T04:43:21Z" finished-at="2019-07-13T04:43:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57" started-at="2019-07-13T04:43:21Z" finished-at="2019-07-13T04:43:21Z">
+      <class name="pac.AddToCart">
+        <test-method status="PASS" signature="addCart(java.lang.String, java.lang.String, int)[pri:0, instance:pac.AddToCart@1d057a39]" name="addCart" duration-ms="12" started-at="2019-07-13T04:43:21Z" data-provider="getDataForAddCart" finished-at="2019-07-13T04:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A50]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+        <test-method status="PASS" signature="addCart(java.lang.String, java.lang.String, int)[pri:0, instance:pac.AddToCart@1d057a39]" name="addCart" duration-ms="1" started-at="2019-07-13T04:43:21Z" data-provider="getDataForAddCart" finished-at="2019-07-13T04:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[A70]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+        <test-method status="PASS" signature="addCart(java.lang.String, java.lang.String, int)[pri:0, instance:pac.AddToCart@1d057a39]" name="addCart" duration-ms="3" started-at="2019-07-13T04:43:21Z" data-provider="getDataForAddCart" finished-at="2019-07-13T04:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iphone-11]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+        <test-method status="PASS" signature="addCart(java.lang.String, java.lang.String, int)[pri:0, instance:pac.AddToCart@1d057a39]" name="addCart" duration-ms="3" started-at="2019-07-13T04:43:21Z" data-provider="getDataForAddCart" finished-at="2019-07-13T04:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lg]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+        <test-method status="PASS" signature="addCart(java.lang.String, java.lang.String, int)[pri:0, instance:pac.AddToCart@1d057a39]" name="addCart" duration-ms="2" started-at="2019-07-13T04:43:21Z" data-provider="getDataForAddCart" finished-at="2019-07-13T04:43:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sunglass]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rayban]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCart -->
+      </class> <!-- pac.AddToCart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
